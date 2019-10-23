@@ -2,6 +2,6 @@
 
 To start the repository in Gitpod just use the below link:
 
-https://gitpod.io/#https://github.com/tgodzik/metals-sample
+https://gitpod.io/#https://github.com/tgodzik/metals-mill-sample
 
 It will start a new project with Metals already installed.
