@@ -4,6 +4,3 @@ echo "alias bloop=~/.bloop/bloop" >> ~/.bashrc
 alias bloop=~/.bloop/bloop
 ~/.bloop/bloop server &>/dev/null &
 source ~/.bloop/bash/bloop
-curl -L https://piccolo.link/sbt-1.3.3.tgz > ~/sbt.tar.gz
-tar -C ~ -xvf ~/sbt.tar.gz
-alias sbt=~/sbt/bin/sbt
