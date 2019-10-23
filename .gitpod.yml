@@ -4,5 +4,4 @@ vscode:
     - scala-lang.scala@0.3.8:wQBBM+lKILHBqOqlqW60xA==
     - scalameta.metals@1.6.0:Yi5jjDJjIyozrOuZIWFt/g==
 tasks:
-- init: curl -L https://github.com/scalacenter/bloop/releases/download/v1.3.4/install.py | python
-- command: ./setup_bloop.sh
+- command: source ./setup_bloop.sh
